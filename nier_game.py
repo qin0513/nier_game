@@ -85,4 +85,9 @@ def run_game():
                          red_bullet_y, yellow_bullet_y)
         fps_clock.tick(60)
 
+<<<<<<< HEAD
 run_game()
+=======
+run_game()
+print("nier_game_start")
+>>>>>>> 3cbd3be... add some changes
